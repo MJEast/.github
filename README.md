@@ -1,0 +1,2 @@
+# .github
+Midjourney Public Profile
